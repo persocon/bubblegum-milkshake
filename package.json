@@ -24,7 +24,6 @@
     "theme": "dark"
   },
   "homepage": "https://marketplace.visualstudio.com/items?itemName=persocon.bubblegum-milkshake",
-  "icon": "logo.png",
   "license": "MIT",
   "name": "bubblegum-milkshake",
   "publisher": "persocon",

@@ -3,9 +3,9 @@
   "type": "dark",
   "colors": {
     "activityBar.background": "#263647",
-    "activityBarBadge.background": "#ee70a9",
-    "badge.background": "#ee70a9",
-    "button.background": "#ee70a9",
+    "activityBarBadge.background": "#FFBFDC",
+    "badge.background": "#FFBFDC",
+    "button.background": "#FFBFDC",
     "diffEditor.insertedTextBackground": "#0e5849",
     "editor.background": "#263647",
     "editor.foreground": "#ffffff",
@@ -23,7 +23,7 @@
     "list.inactiveSelectionBackground": "#364c63",
     "selection.background": "#c1deff",
     "sideBar.background": "#263647",
-    "statusBar.background": "#ee70a9",
+    "statusBar.background": "#FFBFDC",
     "tab.inactiveBackground": "#1b2632",
     "tab.inactiveForeground": "#c7c7c7",
     "terminal.ansiBlack": "#000000",
@@ -32,7 +32,7 @@
     "terminal.ansiBrightBlue": "#69aff8",
     "terminal.ansiBrightCyan": "#478dc8",
     "terminal.ansiBrightGreen": "#3cc5aa",
-    "terminal.ansiBrightMagenta": "#ee70a9",
+    "terminal.ansiBrightMagenta": "#FFBFDC",
     "terminal.ansiBrightRed": "#fda0a0",
     "terminal.ansiBrightWhite": "#ffffff",
     "terminal.ansiBrightYellow": "#fffc67",
@@ -106,7 +106,7 @@
         "variable.language"
       ],
       "settings": {
-        "foreground": "#ee70a9"
+        "foreground": "#FFBFDC"
       }
     },
     {

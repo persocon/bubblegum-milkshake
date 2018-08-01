@@ -33,13 +33,13 @@
     "terminal.ansiBrightCyan": "#478dc8",
     "terminal.ansiBrightGreen": "#3cc5aa",
     "terminal.ansiBrightMagenta": "#ffd1dc",
-    "terminal.ansiBrightRed": "#fda0a0",
+    "terminal.ansiBrightRed": "#feb9b9",
     "terminal.ansiBrightWhite": "#ffffff",
     "terminal.ansiBrightYellow": "#fffbcc",
     "terminal.ansiCyan": "#1dafec",
     "terminal.ansiGreen": "#1dbb9b",
     "terminal.ansiMagenta": "#a665a6",
-    "terminal.ansiRed": "#fd6e72",
+    "terminal.ansiRed": "#fea0a3",
     "terminal.ansiWhite": "#ededed",
     "terminal.ansiYellow": "#fffbcc",
     "terminal.foreground": "#ffffff",
@@ -75,7 +75,7 @@
         "support.class.component.js.jsx"
       ],
       "settings": {
-        "foreground": "#fda0a0"
+        "foreground": "#feb9b9"
       }
     },
     {
@@ -95,7 +95,7 @@
         "invalid"
       ],
       "settings": {
-        "foreground": "#fd6e72"
+        "foreground": "#fea0a3"
       }
     },
     {
@@ -135,7 +135,7 @@
         "entity.name.tag"
       ],
       "settings": {
-        "foreground": "#fda0a0"
+        "foreground": "#feb9b9"
       }
     },
     {
@@ -144,7 +144,7 @@
         "support.type"
       ],
       "settings": {
-        "foreground": "#a665a6"
+        "foreground": "#c295c2"
       }
     },
     {

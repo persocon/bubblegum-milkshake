@@ -1,0 +1,36 @@
+{
+  "bugs": {
+    "url": "https://github.com/persocom/bubblegum-milkshake/issues"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Bubblegum Milkshake",
+        "path": "./themes/bubblegum-milkshake.json",
+        "uiTheme": "vs-dark"
+      }
+    ]
+  },
+  "description": "Bubblegum Milkshake color theme inspired by oleblaesing/flamingo-galaxy",
+  "displayName": "FBubblegum Milkshake",
+  "engines": {
+    "vscode": "^1.23.0"
+  },
+  "galleryBanner": {
+    "color": "#ee70a9",
+    "theme": "dark"
+  },
+  "homepage": "https://marketplace.visualstudio.com/items?itemName=persocon.bubblegum-milkshake",
+  "icon": "logo.png",
+  "license": "MIT",
+  "name": "flamingo-galaxy",
+  "publisher": "oleblaesing",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/persocon/bubblegum-milkshake.git"
+  },
+  "version": "0.0.1"
+}

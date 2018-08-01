@@ -20,7 +20,7 @@
     "vscode": "^1.23.0"
   },
   "galleryBanner": {
-    "color": "#FFBFDC",
+    "color": "#ffd1dc",
     "theme": "dark"
   },
   "homepage": "https://marketplace.visualstudio.com/items?itemName=persocon.bubblegum-milkshake",

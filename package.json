@@ -26,8 +26,8 @@
   "homepage": "https://marketplace.visualstudio.com/items?itemName=persocon.bubblegum-milkshake",
   "icon": "logo.png",
   "license": "MIT",
-  "name": "flamingo-galaxy",
-  "publisher": "oleblaesing",
+  "name": "bubblegum-milkshake",
+  "publisher": "persocon",
   "repository": {
     "type": "git",
     "url": "https://github.com/persocon/bubblegum-milkshake.git"

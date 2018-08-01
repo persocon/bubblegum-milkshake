@@ -15,7 +15,7 @@
     ]
   },
   "description": "Bubblegum Milkshake color theme inspired by oleblaesing/flamingo-galaxy",
-  "displayName": "FBubblegum Milkshake",
+  "displayName": "Bubblegum Milkshake",
   "engines": {
     "vscode": "^1.23.0"
   },

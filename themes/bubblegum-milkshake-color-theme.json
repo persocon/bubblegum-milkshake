@@ -1,5 +1,5 @@
 {
-  "name": "Flamingo Galaxy",
+  "name": "Bubblegum Milkshake",
   "type": "dark",
   "colors": {
     "activityBar.background": "#263647",
@@ -9,7 +9,7 @@
     "diffEditor.insertedTextBackground": "#199a80",
     "editor.background": "#263647",
     "editor.foreground": "#ffffff",
-    "editor.lineHighlightBorder": "#263647",
+    "editor.lineHighlightBorder": "#2d4157",
     "editorGroupHeader.tabsBackground": "#2d3f53",
     "editorLineNumber.foreground": "#ededed",
     "editorWidget.background": "#263647",
@@ -44,7 +44,9 @@
     "terminal.ansiYellow": "#fffbcc",
     "terminal.foreground": "#ffffff",
     "terminal.selectionBackground": "#c1deff",
-    "titleBar.activeBackground": "#000000"
+    "titleBar.activeBackground": "#000000",
+    "editorBracketMatch.border": "#ffd1dc",
+    "editorBracketMatch.background": "#3a4f64"
   },
   "tokenColors": [
     {
@@ -119,6 +121,15 @@
       }
     },
     {
+      "name": "Punctuation Braces",
+      "scope": [
+        "punctuation.definition.block"
+      ],
+      "settings": {
+        "foreground": "#3cc5aa"
+      }
+    },
+    {
       "name": "Strings",
       "scope": [
         "punctuation.definition.string.begin",
@@ -155,6 +166,18 @@
       ],
       "settings": {
         "foreground": "#ffffff"
+      }
+    },
+    {
+      "name": "Template expression",
+      "scope": [
+        "meta.template.expression",
+        "punctuation.definition.template-expression.begin",
+        "punctuation.definition.template-expression.end"
+      ],
+      "settings": {
+        "foreground": "#c295c2",
+        "fontStyle": "italic"
       }
     }
   ]

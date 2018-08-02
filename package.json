@@ -9,7 +9,7 @@
     "themes": [
       {
         "label": "Bubblegum Milkshake",
-        "path": "./themes/bubblegum-milkshake.json",
+        "path": "./themes/bubblegum-milkshake-color-theme.json",
         "uiTheme": "vs-dark"
       }
     ]
@@ -31,5 +31,5 @@
     "type": "git",
     "url": "https://github.com/persocon/bubblegum-milkshake.git"
   },
-  "version": "0.0.1"
+  "version": "0.0.2"
 }
